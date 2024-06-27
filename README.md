@@ -1,4 +1,4 @@
-- 👋 Hola, mi nombre es Alberto / Hi, I’m @AlbertoRodBa
+- 👋 Hola, mi nombre es Alberto / Hi, I’m Alberto @AlbertoRodBa
 - Soy de Chile / I'm from Chile
 - Me dedico al Diseño Web y a las comunicaciones / I work in Web Design and Communications
 - Estoy aprendiendo programación con Javascript / I am learning programming with Javascript
