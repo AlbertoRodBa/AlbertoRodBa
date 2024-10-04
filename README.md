@@ -1,6 +1,6 @@
 - 👋 Hola, mi nombre es Alberto
 - 🇨🇱 Soy de Chile 
-- 💻 Me dedico al desarrollo y diseño web
+- 💻 Me dedico al desarrollo, diseño web y comunicaciones
 - Cuento con experiencia en: desarrollo y diseño web, administración WordPress y comunicaciones.  
 - 📩 Puedes contactarme en: rodriguezbarriosal@gmail.com 
 <!---
